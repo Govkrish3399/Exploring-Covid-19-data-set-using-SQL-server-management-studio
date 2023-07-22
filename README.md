@@ -10,9 +10,10 @@ Data Analysis by SQL and Excel
 
 > Leveraged Excel to perform the cleaning of the data set, and make the data more readable for further analysis.
 
-> Crafted SQL queries to perform aggregation and join functions to extract meaningful insights from the data set.
+> Crafted SQL queries to perform aggregation and join functions to extract meaningful insights from the data set. 
+
+> Loaded and visualized the covid 19 data using Tableau, here is link to my Covid 19 dashbaord using Tableau, https://public.tableau.com/app/profile/govind.krishnadas/viz/Covid19Dashboard_16899457592300/Dashboard1.
 
 
 The key skills I learned in this project is creating temp tables, using joins to extract data from multiple tables, perfom aggregations functions, changing data types.
-
 

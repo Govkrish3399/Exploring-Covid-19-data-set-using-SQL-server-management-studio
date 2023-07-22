@@ -14,6 +14,8 @@ Data Analysis by SQL and Excel
 
 > Loaded and visualized the covid 19 data using Tableau, here is link to my Covid 19 dashbaord using Tableau, https://public.tableau.com/app/profile/govind.krishnadas/viz/Covid19Dashboard_16899457592300/Dashboard1.
 
+All Sql queries I used for analysing this covid 19 data set are in the folder named SQL Queries crafted.
+
 
 The key skills I learned in this project is creating temp tables, using joins to extract data from multiple tables, perfom aggregations functions, changing data types.
 
